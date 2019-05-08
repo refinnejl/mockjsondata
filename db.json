@@ -1,11 +1,10 @@
 {
-  "Jenn Le" : {
+  "Jenn Le" : 
     { "ufid": 12345678, "DisplayName": "Jennifer Le" }
-  },
-  "Dwight Schrute":{
+  ,
+  "Dwight Schrute":
     { "ufid": 11111111, "DisplayName": "Dwight Schrute" }
-  },
-  "Jim Halpert":{
+  ,
+  "Jim Halpert":
     { "ufid": 22222222, "DisplayName": "James Halpert" }
-  }
 }
